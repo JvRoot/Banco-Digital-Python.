@@ -255,4 +255,4 @@ Saldo Inicial: R$ 1.000,00
         break
 
     else:
-        print("Opção inválida!")
+        print("Opção inválida!"
